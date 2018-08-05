@@ -23,13 +23,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-/* 
-| base_url para aplicação no servidor local
-$config['base_url'] = 'http://localhost/projeto/';
-|
-*/
-// base_url para aplicação no servidor remoto
-$config['base_url'] = 'http://192.185.209.187/';
+
+$config['base_url'] = 'http://localhost/teste20/';
+
 
 /*
 |--------------------------------------------------------------------------
